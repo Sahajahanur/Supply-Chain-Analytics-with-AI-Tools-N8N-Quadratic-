@@ -338,7 +338,12 @@ We will use AI prompts to calculate standard Supply Chain metrics.
 ✅ Domain expertise validates results and drives decisions
 
 
-## Remember: AI tools multiply productivity, but fundamentals in coding, data analysis, and domain knowledge remain essential for validation and career growth.
+### Remember: AI tools multiply productivity, but fundamentals in coding, data analysis, and domain knowledge remain essential for validation and career growth.
+
+##  📬 Contacts  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectingsrl@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajahanur-laskar/)
 
 
 
