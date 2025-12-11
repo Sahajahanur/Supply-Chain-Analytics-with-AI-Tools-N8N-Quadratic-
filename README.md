@@ -333,8 +333,11 @@ We will use AI prompts to calculate standard Supply Chain metrics.
 ## Key Takeaways
 
 ✅ Automation eliminates manual data entry
+
 ✅ Cloud infrastructure provides scalability
+
 ✅ AI-powered analysis accelerates insights
+
 ✅ Domain expertise validates results and drives decisions
 
 
